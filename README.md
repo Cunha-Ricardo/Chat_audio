@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎤 IA por Voz - Voice AI App
 
 Uma aplicação React/Next.js que permite conversar com IA usando sua voz!
@@ -81,3 +82,6 @@ Acesse: http://localhost:3000
 - [ ] Suporte a múltiplos idiomas
 - [ ] Controles de gravação avançados
 - [ ] Integração com outros modelos de IA
+=======
+# Chat_audio
+>>>>>>> cb04e972bd174ce5f4f6bf91e715f597da3aa16d
